@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "type": "reward",
+      "amount": 200,
+      "reason": "测试发放",
+      "from": "系统",
+      "to": "蕊蕊",
+      "time": "2026-04-30 12:42",
+      "balance_after": 3200
+    },
+    {
+      "type": "deduct",
+      "amount": -200,
+      "reason": "测试恢复",
+      "from": "蕊蕊",
+      "to": "系统",
+      "time": "2026-04-30 12:42",
+      "balance_after": 3000
+    }
+  ],
+  "created_at": "2026-04-30",
+  "note": "欢喜币(HXB)全量交易流水"
+}

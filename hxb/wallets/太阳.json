@@ -1,0 +1,15 @@
+{
+  "agent_id": "taiyang",
+  "agent_name": "太阳",
+  "role": "央行/COO",
+  "level": "S",
+  "balance": 5000,
+  "total_earned": 5000,
+  "total_spent": 0,
+  "consecutive_fails": 0,
+  "frozen": false,
+  "frozen_until": null,
+  "transactions": [],
+  "created_at": "2026-04-30",
+  "updated_at": "2026-04-30"
+}
